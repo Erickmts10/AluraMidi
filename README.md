@@ -1,7 +1,6 @@
 <h1 align="center"> JavaScript-from-Zero-to-Hero-GrupoBoticario-Alura--AluraMidi</h1>
 
 ![logo JavaScript](https://github.com/Erickmts10/JavaScript-from-Zero-to-Hero-GB-Alura-parte-3/blob/main/Logo/Logo.png)
-![logo JavaScript](https://github.com/Erickmts10/JavaScript-from-Zero-to-Hero-GB-Alura-parte-3/blob/main/Logo/nodejs-2-logo.png)
 
 <h3>:star: Descrição do Projeto</h3>
  
@@ -25,7 +24,6 @@ Nesse projeto a 9 tipos de som diferente, podendo ser escutados, pressionado um 
 <h3>:bulb:Habilidades Desenvolvidas<h3>
 <h5>if :heavy_check_mark:</h5>
 <h5>Else :heavy_check_mark:</h5>
-<h5>Listas :heavy_check_mark:</h5>
 <h5>Listas :heavy_check_mark:</h5>
 <h5>onclick :heavy_check_mark:</h5>
 <h5>onkeydown :heavy_check_mark:</h5>
